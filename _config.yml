@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               GR8975: Edition
+tagline:             'A minimal edition of BnF Ms Fr 640'
+description:         'This edition uses the Jekyll theme Ed designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 'http://tcatapano.github.io'
+baseurl:             '/GR8975-edition'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Terry Catapano
+  url:               https://twitter.com/catapanoth
+  email:             catapanoth@gmail.com
 
 # Permalinks
 
@@ -45,3 +45,5 @@ version:             0.0.6
 exclude: [optional, vendor]
 
 
+
+theme: jekyll-theme-minimal
