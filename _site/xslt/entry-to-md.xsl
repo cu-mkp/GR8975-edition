@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" exclude-result-prefixes="#all">
     
     <xsl:output encoding="UTF-8" method="text"></xsl:output>
@@ -67,6 +67,7 @@
         <xsl:value-of select="@url"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
         <xsl:text>&lt;img src="/assets/photo-icon.png" alt="Enlace al facsímil" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
+        <xsl:value-of select="@number"/>
         <xsl:text>&lt;/a&gt;</xsl:text>
     </xsl:template>
     
