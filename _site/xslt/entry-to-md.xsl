@@ -63,6 +63,7 @@
     
     <!-- SAT: Crear el icono de la imagen y crear un enlace al folio correspondiente: -->
     <xsl:template match="folio">
+        <xsl:text>&lt;br/&gt;</xsl:text>
         <xsl:text>&lt;a href="</xsl:text>
         <xsl:value-of select="@url"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
