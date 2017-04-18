@@ -1,6 +1,6 @@
 ---
 layout: page
-title: credits
+title: Credits
 ---
 ### [Terry Catapano](https://github.com/tcatapano) | Metadata ninja
 
