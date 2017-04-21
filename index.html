@@ -10,13 +10,14 @@ title: "GR8975-edition"
 <hr>
 
 <div class="toc">
+
   <h2>Table of Contents</h2>
   <ul class="post">
   {% for item in site.texts do %}
   
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
-        <i>{{ item.title }}</i> {{item.folio}}
+        <i>{{ item.title }}</i> {{item.folio}}{% if item.annotation == true %} * {% endif %}
       </a>
     </li>
   {% endfor %}
