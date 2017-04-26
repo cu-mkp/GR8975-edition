@@ -2,7 +2,6 @@
 layout: page
 title: Introduction to the Minimal Edition
 ---
-##Introduction to the Minimal Edition
 
 The digital minimal edition is a course project of the graduate-level digital humanities seminar, **“HIST GR8975: What is a Book in the 21st Century?”** offered the by Department of History at Columbia University. Students worked collaboratively and creatively in the process of producing this edition. The English translation of BnF Ms. Fr. 640 is the basic data set of the minimal edition. This edition has basic and limited feature, yet serves as important prototype for the design of the Project’s final digital critical edition.The project is an integral part of the **Making and Knowing Project**, and is in close collaboration with its other researches.
 
