@@ -1,4 +1,6 @@
-What Is a Book in the 21st Century? Working with Historical Texts in a Digital Environment:
+About the Course
+
+"What Is a Book in the 21st Century? Working with Historical Texts in a Digital Environment"
 
 This course introduced graduate students at Columbia University to techniques of working in digital environments. Through hands-on assignments (with plenty of assistance), students have learned a variety of skills that constitute literacy in digital humanities, and are now able to take their newfound digital literacy with them to pursue their own study, research, and future work.
 
