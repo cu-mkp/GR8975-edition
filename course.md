@@ -1,3 +1,8 @@
+---
+layout: page
+title: About the Course
+---
+
 # About the Course
 
 ## "What Is a Book in the 21st Century? Working with Historical Texts in a Digital Environment"
