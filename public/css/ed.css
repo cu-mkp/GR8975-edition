@@ -211,7 +211,6 @@ blockquote {
 	margin: 0 0 20px 0; 
   	color: #454545;
 	border-left: none;
-	font-style: italic;
 }
 
 blockquote p:last-child {
