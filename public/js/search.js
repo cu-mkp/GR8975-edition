@@ -21,7 +21,7 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
-  content: {{text.content | strip_html | jsonify}},
+  content: {{text.content | jsonify | strip_html | }},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
 console.log( jQuery.type(index) );
@@ -55,7 +55,7 @@ function doSearch() {
   var result = index.search(query);
   resultdiv.empty();
   if (result.length == 0) {
-    resultdiv.append('<p class="">No results found.1</p>');
+    resultdiv.append('<p class="">No results found.</p>');
   } else if (result.length == 1) {
     resultdiv.append('<p class="">Found '+result.length+' result</p>');
   } else {
