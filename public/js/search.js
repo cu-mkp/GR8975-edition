@@ -21,7 +21,7 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
-  content: {{text.content | jsonify | strip_html | }},
+  content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
 console.log( jQuery.type(index) );
@@ -34,6 +34,7 @@ var store = [{% for text in site.texts %}{
   "author": {{text.author | jsonify}},
   "layout": {{ text.layout | jsonify }},
   "link": {{text.url | jsonify}},
+  "excerpt": {{text.content | strip_html |remove: "-"| truncatewords: 20 | jsonify}}
 }
 {% unless forloop.last %},{% endunless %}{% endfor %}]
 
@@ -52,7 +53,14 @@ function doSearch() {
   var query = $('input#search').val();
 
   //The search is then launched on the index built with Lunr
-  var result = index.search(query);
+  var result = index.search(query, {
+    fields: {
+        title: {boost: 2},
+        content: {boost: 1}
+    },
+    bool: "OR"
+});
+                                             
   resultdiv.empty();
   if (result.length == 0) {
     resultdiv.append('<p class="">No results found.</p>');
@@ -64,7 +72,7 @@ function doSearch() {
   //Loop through, match, and add results
   for (var item in result) {
     var ref = result[item].ref;
-    var searchitem = '<div class="result"><p><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a></p></div>';
+    var searchitem = '<div class="result"><a href="{{ site.baseurl }}'+store[ref].link+'?q='+query+'">'+store[ref].title+'</a><p>'+store[ref].excerpt+'</p></div>';
     resultdiv.append(searchitem);
   }
 }
