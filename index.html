@@ -20,7 +20,7 @@ title: "GR8975-edition"
         <i>{{ item.title }}</i> - {{item.folio}}{% if item.annotation == true %} * {% endif %}
       </a>
       <br/>xxx
-      {% assign cats = text.categories %}
+      {% assign cats = texts.categories %}
         {% for cat in cats %}
 	      <span class="post-tag"> {{ cat }} </span>
         {% endfor %}
