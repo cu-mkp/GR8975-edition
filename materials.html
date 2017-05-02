@@ -55,7 +55,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
          {% if text.tags contains tag %}
          <li>
          <p>
-         <a href="{{ text.identifier }}">
+         <a href="{{ site.baseurl }}/texts/{{ text.identifier }}">
          {{ text.title }}
          </a>
          <small>- {{ text.folio }}</small>
