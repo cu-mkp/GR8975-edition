@@ -1,10 +1,9 @@
 ---
 layout: page
-title: **About the Making and Knowing Project**
+title: About the Making and Knowing Project
 ---
-##**THE MAKING AND KNOWING PROJECT**##
 
-##**The Aim**##
+### The Aim
 
 The Making and Knowing Project is a research and pedagogical initiative in the Center for Science and Society at Columbia University that explores the intersections between historical craft/artistic making and scientific knowing. Its current five-year focus is to create an open-access critical digital edition and English translation of an intriguing late sixteenth-century French manuscript, Bibliothèque nationale de France, Ms. Fr. 640. This anonymous manuscript is the written result of recipe collecting and workshop practice in the sixteenth century, and it gives unique insight into craft and artistic techniques, daily life in the sixteenth century, and material and intellectual understandings of the natural world. This compilation of artisanal techniques, recipes, and experimental notes produced by an experienced practitioner stands at a pivotal moment in the growth of a new mode of gaining knowledge which we now call “science.” It grants an invaluable view into the continuous, methodical experimentation through which art objects were created by skilled labor, and how the process of artistic creation yielded insights into the behavior of natural materials. 
 
@@ -12,7 +11,7 @@ The fact that a practitioner recorded these technical procedures at all is part 
 
 The critical edition will add a rare and important text to a limited corpus of technical treatises and will make the manuscript openly accessible to diverse audiences. It will contribute to the careful deciphering of materials and techniques done by museum curators and conservators; it provides rich evidence for new scholarship in the histories of art and of science; and its extensive interpretative apparatus of textual, historical, and technical annotations will open fertile avenues of research on technical “recipe books” to literary scholars and historians. 
 
-##**The Process**##
+### The Process
 
 Founded in 2014 by Pamela Smith, the Making and Knowing Project is creating the critical edition and English translation of this manuscript by a series of “expert crowd sourcing” workshops and courses that involve students, practitioners (such as sculptors, conservators, technical art historians), scholars of the humanities and social sciences (history, art history, anthropology, and museum scholars), natural scientists (chemists, conservation scientists, and engineers), and practitioner-scholars from the emerging field of the digital humanities. The first stage of transcription and translation of the manuscript is carried out in a series of three-week summer text workshops that bring together graduate students (of, for example, French literature, history, and art history) to gain skills in middle French script by transcribing and translating the manuscript in the collaborative workspace of Google Drive. The first workshop was held in June 2014, during which 15 students from European and North American universities transcribed and translated about a third of the manuscript (concentrating on metalworking “recipes”). The following summer (focusing on colormaking recipes), a different group of students were able to complete a draft of the entire transcription and translation. The next workshop, which also included data analysis in preparation for the digital edition, was held in June 2016 with a new group of students and interns, and they were able to finalize the verbatim French transcription. Text workshops will continue until all parts of the edition are complete.
 
