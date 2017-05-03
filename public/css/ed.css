@@ -211,7 +211,11 @@ blockquote {
 	margin: 0 0 20px 0; 
   	color: #454545;
 	border-left: none;
-	font-style: italic;
+	/*removed by TC*/
+	/*font-style: italic;*/
+	/*added by TC*/
+	background-color: tan;
+	font-size: 75%;
 }
 
 blockquote p:last-child {
