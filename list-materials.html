@@ -1,0 +1,71 @@
+---
+layout: page
+title: List of Materials
+---
+
+{% comment %}
+https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for text in site.texts %}
+    {% assign ttags = text.materials | join:'|' | append:'|' %}
+    {% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+    {% if tag != "" %}
+        {% if tags == "" %}
+            {% assign tags = tag | split:'|' %}
+        {% endif %}
+        {% unless tags contains tag %}
+            {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' | sort %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+
+{% for tag in tags %}
+    <a class="tag" href="#{{ tag | slugify }}">{{ tag }}</a>
+{% endfor %}
+{% endcomment %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+    <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+    <ul>
+     {% for text in site.texts %}
+         {% if text.materials contains tag %}
+         <li>
+         <p>
+         <a href="{{ site.baseurl }}/texts/{{ text.identifier }}">
+         {{ text.title }}
+         </a>
+         <small>- {{ text.folio }}</small>
+         <br/>
+         {% for tag in text.materials %}
+             <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag"> {{ tag }} </span></a>
+         {% endfor %}
+         </p>
+         </li>
+         {% endif %}
+     {% endfor %}
+    </ul>
+{% endfor %}
