@@ -65,7 +65,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
              <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag-2"> {{ tag }} </span></a>
          {% endfor %}
          {% for activity in text.activities %}
-             <a class="tag small" href="{{ site-baseurl }}/GR8975-edition/list-activities#{{ tag | slugify }}"><span class="post-tag"> {{ activity }} </span></a>
+             <a class="tag small" href="{{ site-baseurl }}/GR8975-edition/list-activities#{{ activity | slugify }}"><span class="post-tag"> {{ activity }} </span></a>
          {% endfor %}
          </p>
          </li>
