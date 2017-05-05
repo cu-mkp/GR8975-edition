@@ -817,3 +817,5 @@ ol.bibliography {
 /*Tags*/
 /*added by TC 2017-05-02*/
 .post-tag{display:inline-block;background:rgba(106,159,181,0.15);padding:0 .5rem;margin-right:.5rem;border-radius:4px;color:#6a9fb5;font-family:"PT Sans",Helvetica,Arial,sans-serif;font-size:67%;-webkit-transition:all 0.1s ease-in-out;-moz-transition:all 0.1s ease-in-out;transition:all 0.1s ease-in-out}
+
+.post-tag-2{display:inline-block;background:rgba(0,255,0,0.15);padding:0 .5rem;margin-right:.5rem;border-radius:4px;color:#6a9fb5;font-family:"PT Sans",Helvetica,Arial,sans-serif;font-size:67%;-webkit-transition:all 0.1s ease-in-out;-moz-transition:all 0.1s ease-in-out;transition:all 0.1s ease-in-out}
