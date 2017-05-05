@@ -40,7 +40,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 {% endcomment %}
 
 {% for tag in tags %}
-    <a class="tag" href="#{{ tag | slugify }}"><span class="post-tag"> {{ tag }} </span></a>
+    <a class="tag" href="#{{ tag | slugify }}"><span class="post-tag-2"> {{ tag }} </span></a>
 {% endfor %}
 
 
@@ -62,7 +62,10 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
          <small>- {{ text.folio }}</small>
          <br/>
          {% for tag in text.purposes %}
-             <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag"> {{ tag }} </span></a>
+             <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag-2"> {{ tag }} </span></a>
+         {% endfor %}
+         {% for activity in text.activities %}
+             <a class="tag small" href="{{ site-baseurl }}/GR8975-edition/list-activities#{{ tag | slugify }}"><span class="post-tag"> {{ activity }} </span></a>
          {% endfor %}
          </p>
          </li>
