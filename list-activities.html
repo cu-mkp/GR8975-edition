@@ -64,6 +64,9 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
          {% for tag in text.activities %}
              <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag"> {{ tag }} </span></a>
          {% endfor %}
+        {% for purpose in text.purposes %}
+             <span class="post-tag-2"> {{ purpose }} </span>
+         {% endfor %}    
          </p>
          </li>
          {% endif %}
