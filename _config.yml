@@ -4,7 +4,7 @@
 title:               Making and Knowing
 tagline:             'A minimal edition of BnF Ms Fr 640 in English Translation'
 description:         'This edition uses the Jekyll theme Ed designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://tcatapano.github.io'
+url:                 'http://cu-mkp.github.io'
 baseurl:             '/GR8975-edition'
 
 # About/contact
