@@ -11,7 +11,7 @@ The following part extracts all the tags from your posts and sort tags, so that 
 {% endcomment %}
 {% assign rawtags = "" %}
 {% for text in site.texts %}
-    {% assign ttags = text.tools | join:'|' | append:'|' %}
+    {% assign ttags = text.plants | join:'|' | append:'|' %}
     {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
@@ -53,7 +53,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
     <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
     <ul>
      {% for text in site.texts %}
-         {% if text.tools contains tag %}
+         {% if text.plants contains tag %}
          <li>
          <p>
          <a href="{{ site.baseurl }}/texts/{{ text.identifier }}">
@@ -61,7 +61,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
          </a>
          <small>- {{ text.folio }}</small>
          <br/>
-         {% for tag in text.tools %}
+         {% for tag in text.plants %}
              <a class="tag small" href="#{{ tag | slugify }}"><span class="post-tag"> {{ tag }} </span></a>
          {% endfor %}
          </p>
