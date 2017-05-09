@@ -68,8 +68,7 @@ Computer Science, MA student
 
 *Jeffrey Wayno*
 
-Jeffrey studies the history of Europe in the High Middle Ages, with a focus on the papacy, the institutional development of the Church, and the history of communication. He previously studied at Princeton (AB, 2007) and University College London (MA, 2009), and now holds MA and MPhil degrees in history from Columbia. Currently, he is completing his dissertation on papal communication practices, tentatively titled, "St. Peter's Trumpet: Communication and the Limits of Papal Authority in the Medieval West, 1050-1250." Now in his sixth year as rapporteur of the Columbia University Seminar on Medieval Studies, Jeffrey has also served as Co-President of the Graduate History Association (2010-11), and as Teaching Coordinator for the Department of History (2011-12). He currently teaches Literature Humanities as a graduate preceptor in the Columbia Core Curriculum.
-<http://history.columbia.edu/graduate/Wayno.html>
+Jeffrey is a CLIR-DLF Postdoctoral Fellow for Data Curation in Medieval Studies at Columbia University. He received his PhD in medieval history from Columbia in 2016, having studied previously at Princeton (AB, 2007) and University College London (MA, 2009). He studies the history of Europe in the High Middle Ages, with a focus on the papacy, the institutional development of the Church, and the history of communication. Currently, in addition to working on several digital humanities projects at the Columbia University Libraries, he is working on a book manuscript tentatively titled, *Empire of Influence: Reimagining the High Medieval Papacy*.
  
 ### Center for Teaching and Learning
 
