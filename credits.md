@@ -15,22 +15,22 @@ Benjamin is a first year PhD student in the history department at Columbia Unive
 *Jiayi Li*
 
 Originally from Shenzhen, China, Jiayi received his Bachelor of Arts in Liberal Arts and Sciences from the University of Illinois at Urbana-Champaign. He majored in history and economics, and he graduated Magna Cum Laude and with highest distinction in history. He also received a Bachelor of Science in Engineering Physics with highest honors. During Jiayi’s undergraduate studies, he was interested in the role Chinese students had played in US-China relations since the Boxer Rebellion. He participated in the production of two documentaries about Chinese students at the University of Illinois, and his senior thesis was about the transnational experience of American-trained Chinese scientists during the Cold War. His current research interests include transnational history of the Cold War, modern Chinese intellectual history, modern Chinese political history, and interdisciplinary approaches to history. Beyond academics, Jiayi is active in community service. He is also a huge fan of sports, and he loves playing soccer, basketball, and golf the most. 
-http://worldhistory.columbia.edu/students/all/#jiayi_li
+(http://worldhistory.columbia.edu/students/all/#jiayi_li)
 
 *Xiaomeng Liu*
 
 Xiaomeng Liu is a PhD student in history at the University of Hong Kong. His research focuses on the transformation of pharmaceutical technology in late imperial and modern China. His project tries to understand how a traditional craft of drug making was transformed by the involvement of modern machines, and how the process changed the manufacturing, marketing and consuming of what we called today the “Chinese drugs”. During his visit at the Center for Science and Society, he is participating in the Making & Knowing Project.
-http://scienceandsociety.columbia.edu/visiting-scholars/
+(http://scienceandsociety.columbia.edu/visiting-scholars/)
 
 *Nikhil Ramachandran*
 
 Middle Eastern, South Asian, and African Studies. MA student
-http://www.columbia.edu/cu/mesaas/graduate/current/directory/index.html
+(http://www.columbia.edu/cu/mesaas/graduate/current/directory/index.html)
 
 *Wenrui Zhao*
 
 Early Modern History in Department of History. PhD student. 
-http://history.columbia.edu/graduate/students.html
+(http://history.columbia.edu/graduate/students.html)
 
 ### Instructors:
 
