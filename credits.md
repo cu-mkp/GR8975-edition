@@ -138,32 +138,32 @@ B.A., Florida International University (2000), Ph.D., University of Virginia (20
 
 ### Supporters
 
-The Making and Knowing Project
-http://makingandknowing.org/ 
+The Making and Knowing Project<br>
+<http://makingandknowing.org/>
 
-The Center for Science and Society
-http://scienceandsociety.columbia.edu/ 
+The Center for Science and Society<br>
+<http://scienceandsociety.columbia.edu/> 
 
-Department of History
-http://history.columbia.edu/
+Department of History<br>
+<http://history.columbia.edu/>
 
-Columbia University Libraries
-http://library.columbia.edu/ 
+Columbia University Libraries<br>
+<http://library.columbia.edu/> 
 
-Department of Computer Science
+Department of Computer Science<br>
 https://www.cs.columbia.edu/ 
 
 Columbia's Group for Experimental Methods in the Humanities (xpMethod)
-http://xpmethod.plaintext.in/ 
+<http://xpmethod.plaintext.in/> 
 
-History in Action
-http://historyinaction.columbia.edu/ 
+History in Action<br>
+<http://historyinaction.columbia.edu/> 
 
-Provost Hybrid Learning Course Redesign and Delivery 
-http://online.columbia.edu/rfp--hybrid-courses.html 
+Provost Hybrid Learning Course Redesign and Delivery<br> 
+<http://online.columbia.edu/rfp--hybrid-courses.html> 
 
-The Center for Teaching and Learning
-http://ctl.columbia.edu/ 
+The Center for Teaching and Learning<br>
+<http://ctl.columbia.edu/>
 
-Collaboratory@Columbia Fellows Fund
-http://collaboratory.columbia.edu/ 
+Collaboratory@Columbia Fellows Fund<br>
+<http://collaboratory.columbia.edu/>
