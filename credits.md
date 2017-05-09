@@ -162,7 +162,7 @@ http://historyinaction.columbia.edu/
 Provost Hybrid Learning Course Redesign and Delivery 
 http://online.columbia.edu/rfp--hybrid-courses.html 
 
-CTL
+The Center for Teaching and Learning
 http://ctl.columbia.edu/ 
 
 Collaboratory@Columbia Fellows Fund
