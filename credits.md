@@ -151,7 +151,7 @@ Columbia University Libraries<br>
 <http://library.columbia.edu/> 
 
 Department of Computer Science<br>
-https://www.cs.columbia.edu/ 
+<https://www.cs.columbia.edu/> 
 
 Columbia's Group for Experimental Methods in the Humanities (xpMethod)
 <http://xpmethod.plaintext.in/> 
