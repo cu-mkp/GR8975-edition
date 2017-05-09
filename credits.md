@@ -2,7 +2,7 @@
 layout: page
 title: Credits
 ---
-### Students: 
+### Students 
 
 *Sohini Chattopadhyay*
 
@@ -32,7 +32,7 @@ Middle Eastern, South Asian, and African Studies. MA student
 Early Modern History in Department of History. PhD student. 
 <http://history.columbia.edu/graduate/students.html>
 
-### Instructors:
+### Instructors
 
 *Pamela H Smith*
 
@@ -49,7 +49,7 @@ Terry Catapano is the Making and Knowing Project’s Digital Lead, overseeing th
 Lecturer-in-Discipline (Department of History, Columbia University) and Research Fellow (Chemical Heritage Foundation) is the Making and Knowing Project’s Postdoctoral Scholar from 2016 through 2019. She is an art historian specializing in sixteenth-century Netherlandish art. She received her PhD in 2016 from the University of Toronto with Ethan Matt Kavaler on the role of the sensual nude in Netherlandish art and culture before Iconoclasm. Dr. Uchacz held the inaugural James Loeb Fellowship for the Classical Tradition in Art and Architecture at the Zentralinstitut für Kunstgeschichte in Munich from May to July 2016, where she addressed an experimental approach to masculinity in Maerten van Heemskerck’s male nudes. At the Chemical Heritage Foundation, she is assisting with a collection digitization project. She is currently working on a book-length manuscript on the Netherlandish nude before Iconoclasm. She is also in the early stages of a new project on the art and intellectual culture of later Renaissance Bruges, with a particular focus on the work of Marcus Gheeraerts.
 <http://www.makingandknowing.org/?page_id=213>
 
-### Teaching Assistants:
+### Teaching Assistants
 
 *Atif Ahmed* 
 
@@ -71,7 +71,7 @@ Computer Science, MA student
 Jeffrey studies the history of Europe in the High Middle Ages, with a focus on the papacy, the institutional development of the Church, and the history of communication. He previously studied at Princeton (AB, 2007) and University College London (MA, 2009), and now holds MA and MPhil degrees in history from Columbia. Currently, he is completing his dissertation on papal communication practices, tentatively titled, "St. Peter's Trumpet: Communication and the Limits of Papal Authority in the Medieval West, 1050-1250." Now in his sixth year as rapporteur of the Columbia University Seminar on Medieval Studies, Jeffrey has also served as Co-President of the Graduate History Association (2010-11), and as Teaching Coordinator for the Department of History (2011-12). He currently teaches Literature Humanities as a graduate preceptor in the Columbia Core Curriculum.
 <http://history.columbia.edu/graduate/Wayno.html>
  
-### Center for Teaching and Learning:
+### Center for Teaching and Learning
 
 *Lucy Appert*
 
@@ -95,6 +95,10 @@ Michelle Hall is the Director of Programs and Services for the Columbia Universi
 Steven K. Feiner (PhD, Brown) is Professor of Computer Science at Columbia University, where he directs the Computer Graphics and User Interfaces Lab. His research interests include human-computer interaction, augmented reality and virtual environments, 3D user interfaces, knowledge-based design of graphics and multimedia, mobile and wearable computing, computer games, and information visualization.
 <http://www.cs.columbia.edu/~feiner/>
 
+*Carmine Carmine Elvezio*
+Carmine Elvezio is a staff associate in the Computer Graphics and User Interfaces Lab at Columbia University. His research interests include interaction and visualization techniques in augmented and virtual reality and system design of real-time interactive 3D graphics applications. He received his MS in Computer Science from Columbia University in 2012 and his BS in Computer Science from the Polytechnic Institute of New York University in 2010.
+http://graphics.cs.columbia.edu/kenny/people/ 
+
 *Noah Zweben*
 
 I'm a senior at Columbia University studying Computer Science. In my free time I love painting, drawing, arranging choral music for my a cappella group, and coding music and computer vision projects. I also enjoy canoeing, windsurfing and camping. 
@@ -105,22 +109,21 @@ I'm a senior at Columbia University studying Computer Science. In my free time I
 <http://graphics.cs.columbia.edu/kenny/people/>
  
 ### Project Administration
-
-*Naomi Rosenkranz*
-
-Naomi Rosenkranz serves as the main administrative liaison between the various research, editorial, and digital activities of the Project staff, collaborators, and participants. She supports the historical reconstruction research, oversees the Project’s chemical laboratory, and maintains the digital collaboration systems. She studied physics at Barnard College (class of 2015), concentrating her research experiences in materials science and engineering (including synthesis and characterization of superconductors and photoconductive properties of organic nanorods). In 2014-15, she served as the inaugural Science Resident in Conservation with Columbia’s Ancient Ink Lab, identifying and characterizing ancient carbon-based inks. She continued her investigation of inks at the Metropolitan Museum of Art, working with the departments of Scientific Research and Paper Conservation to examine medieval iron-tannate black inks through recipe reconstructions and spectral analysis of museum objects.
-<http://www.makingandknowing.org/?page_id=213>
-
 *Caroline Surman*
 
 Caroline Surman started working with the Making and Knowing Project in January 2017. She studied Anthropology with a minor in Environmental Science at Barnard College (class of 2016). In 2014, Caroline completed an anthropological study of craftsmen in New York City, focusing on the role of gender, class, and education in the art vs. craft dichotomy. From 2013-2016, she served as a Student Coordinator with the Barnard Clay Collective, a student-run fully-functioning ceramic studio open to the Columbia community where she focused on administrative management and assisted in teaching ceramic techniques. 
+http://www.makingandknowing.org/?page_id=213
+
+*Naomi Rosenkranz*
+
+Naomi Rosenkranz serves as the main administrative liaison between the various research, editorial, and digital activities of the Project staff, collaborators, and participants. She supports the historical reconstruction research, oversees the Project’s chemical laboratory, and maintains the digital collaboration systems. She studied physics at Barnard College (class of 2015), concentrating her research experiences in materials science and engineering (including synthesis and characterization of superconductors and photoconductive properties of organic nanorods). In 2014-15, she served as the inaugural Science Resident in Conservation with Columbia’s Ancient Ink Lab, identifying and characterizing ancient carbon-based inks. She continued her investigation of inks at the Metropolitan Museum of Art, working with the departments of Scientific Research and Paper Conservation to examine medieval iron-tannate black inks through recipe reconstructions and spectral analysis of t in January 2017. She studied Anthropology with a minor in Environmental Science at Barnard College (class of 2016). In 2014, Caroline completed an anthropological study of craftsmen in New York City, focusing on the role of gender, class, and education in the art vs. craft dichotomy. From 2013-2016, she served as a Student Coordinator with the Barnard Clay Collective, a student-run fully-functioning ceramic studio open to the Columbia community where she focused on administrative management and assisted in teaching ceramic techniques. 
 <http://www.makingandknowing.org/?page_id=213>
 
 *Ludovic Touze-Peiffer*
 
 <http://www.makingandknowing.org/?page_id=213>
 
-### Special Thanks:
+### Special Thanks
 
 *Dennis Tenen*
 
@@ -131,3 +134,33 @@ Dennis Tenen's research happens at the intersection of people, texts, and techno
 
 B.A., Florida International University (2000), Ph.D., University of Virginia (2012). Alex Gil specializes in twentieth-century Caribbean literature and Digital Humanities, with an emphasis on textual studies. His recent research in Caribbean literature focuses on the works and legacy of Aimé Césaire, including work in Aimé Césaire: Poésie, théâtre, essais et discours published by Planète Libre in 2013. He has published in journals and collections of essays in Canada, France and the United States, while sustaining an open-access and robust online research presence. In 2010-2012 he was a fellow at the Scholars' Lab and NINES at the University of Virginia. He is founder and vice chair of the Global Outlook::Digital Humanities initiative and the co-founder and co-director of the Group for Experimental Methods in the Humanities and the Studio@Butler at Columbia University. He serves as Co-editor for Small Axe: Archipelagos and Multilingual Editor for Digital Humanities Quarterly. Alex Gil is actively engaged in several digital humanities projects at Columbia and around the world, including Ed, a digital platform for minimal editions of literary texts; the Open Syllabus Project; the Translation Toolkit; and, In The Same Boats, a visualization of trans-atlantic intersections of black intellectuals in the 20th century.
 <http://english.columbia.edu/people/profile/466>
+
+### Supporters
+
+The Making and Knowing Project
+http://makingandknowing.org/ 
+
+The Center for Science and Society
+http://scienceandsociety.columbia.edu/ 
+
+Department of History
+http://history.columbia.edu/
+
+Columbia University Libraries
+http://library.columbia.edu/ 
+
+Department of Computer Science
+https://www.cs.columbia.edu/ 
+
+Columbia's Group for Experimental Methods in the Humanities (xpMethod)
+http://xpmethod.plaintext.in/ 
+
+History in Action
+http://historyinaction.columbia.edu/ 
+
+Provost Hybrid Learning Course Redesign and Delivery 
+http://online.columbia.edu/rfp--hybrid-courses.html 
+CTL
+http://ctl.columbia.edu/ 
+Collaboratory@Columbia Fellows Fund
+http://collaboratory.columbia.edu/ 
