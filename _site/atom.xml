@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Making and Knowing</title>
- <link href="http://tcatapano.github.io/GR8975-edition/atom.xml" rel="self"/>
- <link href="http://tcatapano.github.io/GR8975-edition/"/>
- <updated>2017-05-08T08:33:25-04:00</updated>
- <id>http://tcatapano.github.io</id>
+ <link href="http://cu-mkp.github.io/GR8975-edition/atom.xml" rel="self"/>
+ <link href="http://cu-mkp.github.io/GR8975-edition/"/>
+ <updated>2017-05-08T08:37:11-04:00</updated>
+ <id>http://cu-mkp.github.io</id>
  <author>
    <name>The Making and Knowing Project</name>
    <email>info@makingandknowing.org</email>
