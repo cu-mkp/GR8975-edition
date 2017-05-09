@@ -2,9 +2,6 @@
 layout: page
 title: Credits
 ---
-
-## Acknowledgments
-
 ### Students: 
 
 *Sohini Chattopadhyay*
