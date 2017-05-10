@@ -53,17 +53,17 @@ Lecturer-in-Discipline (Department of History, Columbia University) and Research
 
 *Atif Ahmed* 
 
-Computer Science, MA student
+Computer Science, MA student<br>
 <https://search.sites.columbia.edu/people/aa3931>
 
 *Mehul Kumar*
 
-Computer Science, MA student
+Computer Science, MA student<br>
 <https://search.sites.columbia.edu/people/Mehul%20Kumar>
 
 *Varsha Maragi*
 
-Computer Science, MA student
+Computer Science, MA student<br>
 <https://search.sites.columbia.edu/people/varsha%20maragi>
 
 *Jeffrey Wayno*
