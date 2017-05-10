@@ -97,7 +97,7 @@ Steven K. Feiner (PhD, Brown) is Professor of Computer Science at Columbia Unive
 *Carmine Elvezio*
 
 Carmine Elvezio is a staff associate in the Computer Graphics and User Interfaces Lab at Columbia University. His research interests include interaction and visualization techniques in augmented and virtual reality and system design of real-time interactive 3D graphics applications. He received his MS in Computer Science from Columbia University in 2012 and his BS in Computer Science from the Polytechnic Institute of New York University in 2010.
-http://graphics.cs.columbia.edu/kenny/people/ 
+<http://graphics.cs.columbia.edu/kenny/people/>
 
 *Noah Zweben*
 
@@ -118,7 +118,7 @@ Naomi Rosenkranz, Making and Knowing Project Manager, serves as the main adminis
 *Caroline Surman*
 
 Caroline Surman, Making and Knowing Project Assistant since January 2017, studied Anthropology with a minor in Environmental Science at Barnard College (class of 2016). In 2014, Caroline completed an anthropological study of craftsmen in New York City, focusing on the role of gender, class, and education in the art vs. craft dichotomy. From 2013-2016, she served as a Student Coordinator with the Barnard Clay Collective, a student-run fully-functioning ceramic studio open to the Columbia community where she focused on administrative management and assisted in teaching ceramic techniques. 
-http://www.makingandknowing.org/?page_id=213
+<http://www.makingandknowing.org/?page_id=213>
 
 
 *Ludovic Touze-Peiffer*
