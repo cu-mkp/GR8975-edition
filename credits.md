@@ -37,7 +37,7 @@ Early Modern History in Department of History. PhD student.
 *Pamela H Smith*
 
 Pamela H. Smith, Seth Low Professor of History, specializes in early modern European history and the history of science. Her current research focuses on attitudes to nature in early modern Europe and the Scientific Revolution, with particular attention to craft knowledge and historical techniques.  She is founding director of the Making and Knowing Project <http://www.makingandknowing.org/>, founding director of the Center for Science and Society <http://scienceandsociety.columbia.edu/>, and chair of the Presidential Scholars in Society and Neuroscience <http://presidentialscholars.columbia.edu/>.
-<http://history.columbia.edu/faculty/Smith.html>
+<http://history.columbia.edu/faculty/smith-pamela-h/>
 
 *Terry Catapano*
 
